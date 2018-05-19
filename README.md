@@ -37,3 +37,10 @@
 	- 8: Assign admin, import and access the token contract, set a token price in wei
 	- 9: Buy tokens, provision tokens to token sale contract (take some of the tokens from the token contract and transfer it to the token sale contract) 
 	- 10: End Sale
+
+## Part 2: Front-end
+- 11: Environment Setup
+- 12: Layout for website (index.html), app.js (init, initWeb3, initContracts, load account data in render function)
+- 13: Render function, buyTokens, transfer some tokens from the token contract to the token sale contract from the console, add listenForEvents function
+
+![](images/2-frontend/layout.png)
